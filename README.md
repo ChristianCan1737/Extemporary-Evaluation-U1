@@ -14,51 +14,51 @@ Parallelogram - Represents input/output
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/basic-symbols.jpg?bn=15100111789)
 
 
-### Start/End Symbol
+### - Start/End Symbol
 The terminator symbol marks the starting or ending point of the system. It usually contains the word "Start" or "End."
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/start-end-flowchart-symbol.png?bn=15100111789)
 
 
 
-### Action or Process Symbol
+### - Action or Process Symbol
 A box can represent a single step ("add two cups of flour"), or and entire sub-process ("make bread") within a larger process.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/action-process-flowchart-symbol.png?bn=15100111789)
 
 
 
-### Document Symbol
+### - Document Symbol
 A printed document or report.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/document-flowchart-symbol.png?bn=15100111789)
 
 
-### Multiple Documents Symbol
+### - Multiple Documents Symbol
 Represents multiple documents in the process
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/multiple-document-flowchart-symbol.png?bn=15100111789)
 
 
-### Decision Symbol
+### - Decision Symbol
 A decision or branching point. Lines representing different decisions emerge from different points of the diamond.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/decision-flowchart-symbol.png?bn=15100111789)
 
 
-### Input/Output Symbol
+### - Input/Output Symbol
 Represents material or information entering or leaving the system, such as customer order (input) or a product (output).
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/imput-output-flowchart-symbol.png?bn=15100111789)
 
 
-### Manual Input Symbol
+### - Manual Input Symbol
 Represents a step where a user is prompted to enter information manually.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/manual-imput-flowchart-symbol.png?bn=15100111789)
 
 
-### Preparation Symbol
+### - Preparation Symbol
 Represents a set-up to another step in the process.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/preparation-flowchart-symbol.png?bn=15100111789)
@@ -70,17 +70,17 @@ Represents a set-up to another step in the process.
 
 ## Loop Structures
 
-### While Loop
+### - While Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-14-728.jpg?cb=1249514389)
 
 
-### Do-While Loop
+### - Do-While Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-15-728.jpg?cb=1249514389)
 
 
-### For Loop
+### - For Loop
 
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-16-728.jpg?cb=1249514389)
@@ -89,22 +89,22 @@ Represents a set-up to another step in the process.
 
 ## Election Structures
 
-### If Loop
+### - If Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-10-728.jpg?cb=1249514389)
 
 
-### If-Else loop
+### - If-Else loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-11-728.jpg?cb=1249514389)
 
 
-### Elseif Loop
+### - Elseif Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-12-728.jpg?cb=1249514389)
 
 
-### Switch Loop
+### - Switch Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-13-728.jpg?cb=1249514389)
 
@@ -112,7 +112,7 @@ Represents a set-up to another step in the process.
 
 ## Examples
 
-### Example 1
+### - Example 1
 
 Start
 
@@ -148,7 +148,7 @@ End
 
 
 
-### Example 2
+### - Example 2
 
 Inicio
    
@@ -174,7 +174,7 @@ Fin
 
 
 
-### Example 3
+### - Example 3
 
 Inicio [Superficie herederos aprenderaprogramar.com]
 
