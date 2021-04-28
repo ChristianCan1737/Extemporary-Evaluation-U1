@@ -176,7 +176,7 @@ Fin
 
 ### - Example 3
 
-Inicio [Superficie herederos aprenderaprogramar.com]
+Inicio
 
    Mostrar “¿Cuál es el número de generaciones?” : Pedir n
 
