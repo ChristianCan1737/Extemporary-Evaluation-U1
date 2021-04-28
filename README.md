@@ -15,7 +15,7 @@ Parallelogram - Represents input/output
 
 
 
-Start/End Symbol
+### Start/End Symbol
 
 The terminator symbol marks the starting or ending point of the system. It usually contains the word "Start" or "End."
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/start-end-flowchart-symbol.png?bn=15100111789)
