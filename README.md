@@ -22,7 +22,11 @@ The terminator symbol marks the starting or ending point of the system. It usual
 
 
 
-Action or Process Symbol
+### Action or Process Symbol
 
 A box can represent a single step ("add two cups of flour"), or and entire sub-process ("make bread") within a larger process.
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/action-process-flowchart-symbol.png?bn=15100111789)
+
+
+### Document Symbol
+A printed document or report.
