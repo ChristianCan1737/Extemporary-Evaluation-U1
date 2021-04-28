@@ -110,6 +110,63 @@ Represents a set-up to another step in the process.
 
 
 
+## Examples
+
+Start
+
+For [Canciones <12];
+
+       If [¿LAS CANCIONES TIENEN SECUENCIA?];
+       
+       CREAR SECUENCIA;
+       
+                If [¿LA SECUENCIA DE CANCIONES CONCUERDA?];
+                
+                NUEVA SECUENCIA;
+                
+                SiNo;
+                
+                CANCIONES = CANCIONES + 1;
+                
+                EndIf;
+                
+       SiNo;
+       
+       CANCIONES = CANCIONES + 1;
+       
+       EndIf;
+       
+SiNo;
+
+CANCIONES = CANCIONES + 1;
+
+EndIf;
+
+End
+
+![Esta es una imagen de ejemplo](https://drive.google.com/file/d/1u7R5VzPQbpXVj5SZ1LzeMX4pFTdZ0UyP/view?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## References
 
 https://www.smartdraw.com/flowchart/flowchart-symbols.htm
