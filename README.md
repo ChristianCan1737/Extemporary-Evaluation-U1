@@ -64,27 +64,46 @@ Represents a set-up to another step in the process.
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/preparation-flowchart-symbol.png?bn=15100111789)
 
 
+
 ## Control statement flowcharts + pseudocode 
+
+
+## Loop Structures
 
 ### While Loop
 
-Syntax:
-WHILE (a condition is true)
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-14-728.jpg?cb=1249514389)
 
- A statement or block of statements
- 
-ENDWHILE
 
-![Esta es una imagen de ejemplo]()
+### Do-While Loop
+
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-15-728.jpg?cb=1249514389)
 
 
 ### For Loop
 
-Syntax:
-FOR (starting state, stopping condition, increment)
 
- Statements
- 
-ENDFOR
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-16-728.jpg?cb=1249514389)
 
-![Esta es una imagen de ejemplo]()
+
+
+## Election Structures
+
+### If Loop
+
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-10-728.jpg?cb=1249514389)
+
+
+### If-Else loop
+
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-11-728.jpg?cb=1249514389)
+
+
+### Elseif Loop
+
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-12-728.jpg?cb=1249514389)
+
+
+### Switch Loop
+
+![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-13-728.jpg?cb=1249514389)
