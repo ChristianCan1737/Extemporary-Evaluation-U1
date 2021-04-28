@@ -112,6 +112,8 @@ Represents a set-up to another step in the process.
 
 ## Examples
 
+### Example 1
+
 Start
 
 For [Canciones <12];
@@ -144,16 +146,57 @@ EndIf;
 
 End
 
-![Esta es una imagen de ejemplo](https://drive.google.com/file/d/1u7R5VzPQbpXVj5SZ1LzeMX4pFTdZ0UyP/view?usp=sharing)
+
+
+### Example 2
+
+Inicio
+   
+   Precio = 650
+   
+   Descuento = 0.30
+   
+   leer(jeans)
+   
+   Si (jeans>2)
+   
+     precioActual = Precio - Precio * Descuento
+     
+   De lo contrario
+   
+     precioActual = Precio
+   
+   total = jeans * precioActual
+   
+   Imprimpir(total)
+
+Fin
 
 
 
+### Example 3
 
+Inicio [Superficie herederos aprenderaprogramar.com]
 
+   Mostrar “¿Cuál es el número de generaciones?” : Pedir n
 
+   Mostrar “¿Cuál es la superficie inicial?” : Pedir Supin
 
+   Toca = Supin
 
+   Desde i = 1 hasta n Hacer
 
+      Mostrar “¿Cuál es el número de herederos de la generación”, i, “?”
+
+      Pedir Hgen(i)
+
+      Toca = Toca / Hgen(i)
+
+   Siguiente
+
+   Mostrar “Al heredero actual le corresponde una superficie de”, Toca
+
+Fin
 
 
 
