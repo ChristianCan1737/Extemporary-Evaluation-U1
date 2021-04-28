@@ -70,7 +70,9 @@ Represents a set-up to another step in the process.
 
 Syntax:
 WHILE (a condition is true)
+
  A statement or block of statements
+ 
 ENDWHILE
 
 ![Esta es una imagen de ejemplo]()
@@ -80,7 +82,9 @@ ENDWHILE
 
 Syntax:
 FOR (starting state, stopping condition, increment)
+
  Statements
+ 
 ENDFOR
 
 ![Esta es una imagen de ejemplo]()
