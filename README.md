@@ -63,3 +63,24 @@ Represents a set-up to another step in the process.
 
 ![Esta es una imagen de ejemplo](https://wcs.smartdraw.com/flowchart/img/preparation-flowchart-symbol.png?bn=15100111789)
 
+
+## Control statement flowcharts + pseudocode 
+
+### While Loop
+
+Syntax:
+WHILE (a condition is true)
+ A statement or block of statements
+ENDWHILE
+
+![Esta es una imagen de ejemplo]()
+
+
+### For Loop
+
+Syntax:
+FOR (starting state, stopping condition, increment)
+ Statements
+ENDFOR
+
+![Esta es una imagen de ejemplo]()
