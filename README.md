@@ -1,7 +1,7 @@
 # Extemporary-Evaluation-U1
 
 
-## Basic flowchart symbols
+# Basic flowchart symbols
 
 Rectangle Shape - Represents a process
 
