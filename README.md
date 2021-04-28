@@ -107,3 +107,11 @@ Represents a set-up to another step in the process.
 ### Switch Loop
 
 ![Esta es una imagen de ejemplo](https://image.slidesharecdn.com/diagramasdeflujo-090805231936-phpapp01/95/diagramas-de-flujo-13-728.jpg?cb=1249514389)
+
+
+
+## References
+
+https://www.smartdraw.com/flowchart/flowchart-symbols.htm
+
+https://es.slideshare.net/poseidonJM/diagramas-de-flujo-1819047
